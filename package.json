@@ -1,0 +1,12 @@
+{
+	"name": "api-usuario",
+	"description": "Prática API RESTfull",
+	"author": "Wellington Lopes <wellington.lopes.tw@gmail.com>",
+	"version": "0.0.0",
+	"dependencies": {
+		"express": "4.15.3",
+		"body-parser": "1.17.2",
+		"multer": "1.3.0",
+		"pg": "6.4.0"
+	}
+}
